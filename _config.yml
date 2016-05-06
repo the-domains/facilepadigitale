@@ -1,0 +1,28 @@
+name: facilepadigitale
+favicon: null
+layout_spectrum: 0.5470527089200914
+typography_spectrum: 0.20251043373718858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.21450785920023918
+  lightness: 0.3608558599371463
+  saturation: 0.276513384655118
+  rhythmicContrast: 0.47571642394177616
+purpose: []
