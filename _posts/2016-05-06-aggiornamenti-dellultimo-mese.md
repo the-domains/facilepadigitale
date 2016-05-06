@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "aggiornamenti dell'ultimo mese"
-datePublished: '2016-05-06T21:03:27.851Z'
-dateModified: '2016-05-06T21:02:09.034Z'
+datePublished: '2016-05-06T21:05:08.029Z'
+dateModified: '2016-05-06T21:04:52.374Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-06-aggiornamenti-dellultimo-mese.md
+starred: true
 url: aggiornamenti-dellultimo-mese/index.html
 _type: Article
 
