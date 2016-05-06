@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'linee guida al '
-datePublished: '2016-05-06T21:04:22.248Z'
-dateModified: '2016-05-06T20:43:42.389Z'
+datePublished: '2016-05-06T21:15:58.178Z'
+dateModified: '2016-05-06T21:04:30.767Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-06-la-digitalizzazione-per-semplificare-ed-aiutare-la-pubblica.md
